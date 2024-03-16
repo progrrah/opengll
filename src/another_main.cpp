@@ -1,5 +1,6 @@
 // #include "include/glad/glad.h"
 #include <GL/glut.h> /* glut graphics library */
+#include <GLFW/glfw3.h>
 #include <iostream>
 #include <stdio.h>
 
