@@ -26,3 +26,4 @@ The OpenGL Registry contains specifications of the core API and shading language
 
 ## settings
 1) [https://www.youtube.com/watch?v=ED-WUk440qc&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=4] - link libraries
+2) [https://shnoh171.github.io/gpu%20and%20gpu%20programming/2019/08/26/installing-glfw-on-ubuntu.html]

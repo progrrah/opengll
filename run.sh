@@ -1,4 +1,5 @@
 #! /bin/sh
-# cd build ; ./another && ./boing 
-# may in another error
-cd build ; ./heightmap
+# cd externel/glut/CMakeFiles/Lorenz.dir/progs/demos/Lorenz/; ./lorenz.c.o
+cd build ; ./clear && ./boing
+# may in clear error
+# cd ../;
