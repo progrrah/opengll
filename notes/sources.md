@@ -33,7 +33,7 @@ The OpenGL Registry contains specifications of the core API and shading language
 
 ## commands
 
-1) git clone --recurse-submodules https://github.com/chaconinc/MainProject
+1) git clone --recurse-submodules https://github.com/progrrah/opengll
 2) git submodule update --init --recursive
 
 ## settings
