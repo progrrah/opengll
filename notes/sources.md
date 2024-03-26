@@ -1,13 +1,5 @@
-## solve  the compiler problem
 
-1) [https://stackoverflow.com/questions/37522462/visual-studio-code-include-stdio-h-saying-add-include-path-to-settings]
-2) [http://www.opengl-tutorial.org/beginners-tutorials/tutorial-6-keyboard-and-mouse/]
-3) [https://www.tutorialspoint.com/makefile/makefile_rules.htm]
-
-
-## git
-1) [https://git-scm.com/book/en/v2/Git-Tools-Submodules]
-
+# only study materials
 ## opengl tutorials
 1) [https://learnopengl.com/Getting-started/OpenGL]
 2) [https://www.opengl.org/]
@@ -18,6 +10,26 @@ The OpenGL Registry contains specifications of the core API and shading language
 2) [https://paroj.github.io/gltut/Basics/Tut01%20Dissecting%20Display.html]
 3) [https://www.glfw.org/docs/3.3/quick.html] glfm else we make else false
 4) [https://freeglut.sourceforge.net/docs/api.php#Contents]
+## opengl lectures
+1) [https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c9ed181b2d859fbf1224092608432281862b6377]
+2) **[http://web.cs.wpi.edu/~emmanuel/courses/cs543/f11/slides]**
+
+## opengl books
+1) [Angel and Shreiner, Interactive Computer Graphics (6 th edition)]
+2) [Hill and Kelley, Computer Graphics using OpenGL (3 rd edition), Chapter 1]
+3) 
+
+# another thing
+## solve  the compiler problem
+
+1) [https://stackoverflow.com/questions/37522462/visual-studio-code-include-stdio-h-saying-add-include-path-to-settings]
+2) [http://www.opengl-tutorial.org/beginners-tutorials/tutorial-6-keyboard-and-mouse/]
+3) [https://www.tutorialspoint.com/makefile/makefile_rules.htm]
+
+
+## git
+1) [https://git-scm.com/book/en/v2/Git-Tools-Submodules]
+
 
 ## commands
 

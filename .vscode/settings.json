@@ -2,7 +2,14 @@
   "files.associations": {
     "iostream": "cpp",
     "system_error": "cpp",
-    "math.h": "c"
+    "math.h": "c",
+    "iosfwd": "cpp",
+    "cstdlib": "cpp",
+    "string": "cpp",
+    "array": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp.intelliSenseEngineFallback": "enabled",
   "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"

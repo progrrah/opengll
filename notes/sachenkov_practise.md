@@ -44,3 +44,6 @@
 1) glBegin(GL_TRIANGLES)
 2) glVertex3d(Points)
 3) glEnd()
+
+#### tasks for new practise
+1) 
