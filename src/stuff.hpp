@@ -29,5 +29,5 @@ void createPoints(GLuint number) {
   GLuint buffer;
   glGenBuffers(1, &buffer);
   glBindBuffer(GL_ARRAY_BUFFER, buffer);
-  glBufferData(GL_ARRAY_BUFFER, sizeof(/**/ 2), points, GL_STATIC_DRAW);
+  // glBufferData(GL_ARRAY_BUFFER, sizeof(/**/ 2), points, GL_STATIC_DRAW);2
 }
